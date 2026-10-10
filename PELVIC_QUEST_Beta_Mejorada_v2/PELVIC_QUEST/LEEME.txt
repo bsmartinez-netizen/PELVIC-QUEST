@@ -1,0 +1,24 @@
+PELVIC QUEST | Beta mejorada para revisión docente
+
+QUÉ CAMBIÓ
+- 12 decisiones clínicas (8 iniciales + 4 de mayor complejidad).
+- Viñetas sobre síntomas mixtos, interpretación de instrumentos, dolor/relajación y seguimiento de resultados.
+- Cronómetro orientativo de 90 segundos por decisión. Al terminar, no penaliza automáticamente: permite responder sin presión artificial.
+- Biblioteca de fuentes clínicas enlazadas desde el informe final.
+- Puntuación final expresada también como porcentaje y desglose por competencias.
+
+CÓMO ABRIR
+1. Extrae todo el ZIP en una carpeta.
+2. Abre PELVIC_QUEST/index.html en Chrome, Edge o Firefox actualizado.
+3. No separes index.html de assets/laura_escena.png.
+4. La biblioteca requiere conexión a internet para abrir las guías externas; el caso y los sonidos básicos funcionan localmente.
+
+ALCANCE ACADÉMICO
+Sigue siendo una versión beta educativa, no un instrumento validado de evaluación de competencias. El caso es ficticio. Las referencias enlazadas son fuentes de orientación y deben ser revisadas por el docente. Para usar cuestionarios (p. ej., ICIQ-UI SF), confirmar la versión española validada, licencia, reglas de puntuación, propiedades de medición y población de referencia. No usar puntos de corte no verificados ni interpretar una puntuación de síntomas como medida de fuerza. La escala Oxford modificada y PERFECT requieren formación y condiciones de evaluación adecuadas.
+
+MEJORAS PENDIENTES PARA VERSIÓN ACADÉMICA
+- Revisión de contenido por expertos en fisioterapia pélvica y metodología educativa.
+- Tabla bibliográfica completa con autores, año, DOI/URL y fecha de consulta.
+- Matriz de especificaciones (competencia, nivel cognitivo, pregunta, clave y justificación).
+- Pilotaje con estudiantes, análisis de dificultad/discriminación de ítems y evaluación de usabilidad/accesibilidad.
+- Validación de resultados y rúbrica del informe final; el porcentaje del juego no equivale a una nota clínica validada.
